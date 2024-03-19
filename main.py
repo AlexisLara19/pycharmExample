@@ -9,12 +9,12 @@ def print_hi(name):
     print(f'Hi popochen , {name}')  # Press Ctrl+F8 to toggle the breakpoint.
     print('Finaliza la funcion')
 
-    print('Aqui inicia otra funcion')
+    print('ADIOS')
 
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     print_hi('PyCharm')
-    print('Estoy afuera de la funcion')
+    print('Estoy afuera')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
