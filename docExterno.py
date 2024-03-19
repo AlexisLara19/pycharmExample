@@ -1,0 +1,1 @@
+cadena = 'La cadena a imprimir es la siguiente'
